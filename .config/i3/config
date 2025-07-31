@@ -58,7 +58,7 @@ floating_modifier $mod
 bindsym $mod+Return exec kitty
 
 # Kill focused window
-bindsym $mod+Shift+q kill
+bindsym Ctrl+d kill
 
 # Start rofi (program launcher)
 bindsym $mod+d exec --no-startup-id rofi -show drun -font 'Hack 11'
