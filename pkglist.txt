@@ -65,7 +65,6 @@ ttf-firacode-nerd
 ttf-hack-nerd
 unzip
 upower
-vscodium-bin
 wget
 xf86-video-vesa
 xorg-bdftopcf
