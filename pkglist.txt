@@ -120,7 +120,5 @@ xss-lock
 xterm
 yay
 yay-debug
-zathura
-zathura-pdf-poppler
 zim
 zip
