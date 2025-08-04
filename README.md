@@ -1,2 +1,2 @@
 # arch-dotfiles
-a collection of my dotfiles for my arch x11 rice
+a collection of all dotfiles for my arch x11 rice
