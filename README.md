@@ -1,7 +1,3 @@
-a collection of all dotfiles for my arch x11 rice
-
-![Screenshot](resources/rice.png)
-
 # Arch Linux Dotfiles
 
 This repository contains my personal dotfiles and configuration for an Arch Linux setup. It includes a minimal and functional desktop environment centered around the i3 window manager, customized terminal experience, and essential utilities for daily use.
@@ -10,7 +6,7 @@ This repository contains my personal dotfiles and configuration for an Arch Linu
 
 ## Screenshot of my RICE
 
-![Screenshot](resources/rice.png)rminal](screenshots/terminal.png)
+![Screenshot](resources/rice.png)
 
 ---
 ## Features & Tools
