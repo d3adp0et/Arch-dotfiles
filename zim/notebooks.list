@@ -1,0 +1,9 @@
+[NotebookList]
+Default=~/Notebooks/Security+
+1=~/Notebooks/Security+
+
+[Notebook 1]
+uri=~/Notebooks/Security+
+name=Security+
+interwiki=None
+icon=None
