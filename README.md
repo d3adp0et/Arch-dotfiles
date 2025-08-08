@@ -60,7 +60,7 @@ These dotfiles cover configuration for the following tools and components:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/dotfiles.git
+git clone https://github.com/d3adp0et/dotfiles.git
 cd dotfiles
 ```
 
