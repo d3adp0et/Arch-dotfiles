@@ -27,6 +27,7 @@ These dotfiles cover configuration for the following tools and components:
 - **Settings Backend**: dconf
 - **Desktop Environment Components**: xfce4 (optional usage)
 - **Notes**: zim
+- **Network Manager**: NetworkManager
 
 ---
 
