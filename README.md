@@ -28,6 +28,8 @@ These dotfiles cover configuration for the following tools and components:
 - **Desktop Environment Components**: xfce4 (optional usage)
 - **Notes**: zim
 - **Network Manager**: NetworkManager
+- **Bluetooth Manager**: blueman-manager
+- 
 
 ---
 
