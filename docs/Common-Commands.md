@@ -1,4 +1,5 @@
-- sudo systemctl restart NetworkManager
+`sudo systemctl restart NetworkManager`
 
-### Display managed by xrandr
-- xrandr --output HDMI-1-0 --primary --left-of eDP-1
+### External display managed by xrandr
+extend: `xrandr --output HDMI-1-0 --primary --left-of eDP-1`
+mirror: `xrandr --output HDMI-1-0 --same-as eDP-1 --auto`
