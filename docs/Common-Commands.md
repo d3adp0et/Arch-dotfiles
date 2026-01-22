@@ -6,5 +6,5 @@ extend: `xrandr --output HDMI-1-0 --primary --left-of eDP-1`
 mirror: `xrandr --output HDMI-1-0 --same-as eDP-1 --auto`
 
 ### ssh
-to do stuff like clear, copy/paste etc
+to do stuff like clear, text editors, copy/paste etc
 -> `export TERM=xterm-256color`
